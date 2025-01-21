@@ -102,9 +102,3 @@ By implementing these strategies, X Education can effectively boost enrollments 
 - **Matplotlib & Seaborn**: Data visualization.  
 
 ---
-
-## How to Use  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/x-education-analysis.git
